@@ -1,4 +1,4 @@
-## Live Version Available [Here](http://https://airbnb-clone-112233.web.app)
+## Live Version Available [Here](https://airbnb-clone-112233.web.app)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
