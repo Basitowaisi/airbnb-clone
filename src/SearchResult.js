@@ -7,7 +7,7 @@ function SearchResult(props) {
   const { img, location, title, description, star, price, total } = props
   return (
     <div className="searchResult">
-      <img src={img} alt="search-result" />
+      <img src={img} alt={description} />
       <FavoriteBorderIcon className="searchResult__heart" />
       <div className="searchResult__info">
         <div className="searchResult__infoTop">
